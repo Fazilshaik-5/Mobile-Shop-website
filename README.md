@@ -16,7 +16,7 @@ Welcome to the **Mobile Shop Website** repository! This project is a sleek and r
 - **Customizable**: Easy-to-modify codebase for adding new features and styling.
 
 ---
-## ????️ Tech Stack
+##  Tech Stack
 
 - **HTML**: For the structure and content.
 - **CSS**: For styling and responsiveness using media queries.
@@ -24,7 +24,7 @@ Welcome to the **Mobile Shop Website** repository! This project is a sleek and r
 
 ---
 
-## ???? Project Structure
+##  Project Structure
 
 ```plaintext
 ├── index.html          # Main HTML file
@@ -44,7 +44,7 @@ Welcome to the **Mobile Shop Website** repository! This project is a sleek and r
 ---
 
 ##  Demo
-
+ https://fazilshaik-5.github.io/Mobile-Shop-website/
 Check out the live demo of the Mobile Shop Website: [Demo Link](#)  t https://fazilshaik-5.github.io/Mobile-Shop-website/
 (*Replace `#` with your live demo URL, e.g., GitHub Pages or a hosting service link.*)
 
