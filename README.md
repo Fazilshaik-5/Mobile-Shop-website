@@ -40,6 +40,11 @@ Welcome to the **Mobile Shop Website** repository! This project is a sleek and r
 │   ├── icons/          # UI icons
 ├── README.md           # Project documentation
 ```
+🌟 Demo
+Check out the live demo of the Mobile Shop Website: Live Demo
+
+( https://fazilshaik-5.github.io/Mobile-Shop-website)
+
 
 ---
 
