@@ -21,6 +21,7 @@ Welcome to the **Mobile Shop Website** repository! This project is a sleek and r
 - **HTML**: For the structure and content.
 - **CSS**: For styling and responsiveness using media queries.
 - **JavaScript**: For interactive features such as product filters, carousels, and form validation.
+- **Live DEmo**:https://fazilshaik-5.github.io/Mobile-Shop-website
 
 ---
 
@@ -45,12 +46,6 @@ Check out the live demo of the Mobile Shop Website: Live Demo
 
 ( https://fazilshaik-5.github.io/Mobile-Shop-website)
 
-
----
-
-##  Demo
- Check out the live demo of the Mobile Shop Website: [Demo Link](t https://fazilshaik-5.github.io/Mobile-Shop-website/)  
-(*Replace `#` with your live demo URL, e.g., GitHub Pages or a hosting service link.*)
 
 ---
 
