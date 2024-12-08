@@ -44,8 +44,7 @@ Welcome to the **Mobile Shop Website** repository! This project is a sleek and r
 ---
 
 ##  Demo
- https://fazilshaik-5.github.io/Mobile-Shop-website/
-Check out the live demo of the Mobile Shop Website: [Demo Link](#)  t https://fazilshaik-5.github.io/Mobile-Shop-website/
+ Check out the live demo of the Mobile Shop Website: [Demo Link](t https://fazilshaik-5.github.io/Mobile-Shop-website/)  
 (*Replace `#` with your live demo URL, e.g., GitHub Pages or a hosting service link.*)
 
 ---
