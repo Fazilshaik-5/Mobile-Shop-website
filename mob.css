@@ -1,0 +1,271 @@
+/* style.css */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #F5F5F5;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url('your-background-image.jpg');
+    background-color: rgba(245, 245, 245, 0.9);
+    overflow-x: hidden;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    animation: fadeInDown 1s ease-in-out;
+    background-image: url(https://img.freepik.com/free-photo/smartphones-with-shopping-bags-table_23-2147957622.jpg?ga=GA1.1.346940526.1732135464&semt=ais_hybrid);
+  }
+  
+  .logo {
+    text-align: center;
+    text-decoration-color: #0099FF;
+    font-size: 36px; /* Increased font size */
+    animation: pulse 2s infinite alternate;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    color: #fff;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  nav li {
+    margin-right: 60px;
+    list-style: none;
+    margin-top: 27px;
+    font-size: 16px; /* Increased font size */
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  nav ul li a:hover {
+    transform: scale(1.1);
+    color: #FF6600;
+  }
+  
+  .banner {
+    text-align: center;
+    padding: 100px 0;
+    color: #fff;
+    background-color: #007BFF;
+    background-image: url("C:\Users\Mohammed Fazil\Desktop\ismil1.jpg");
+    animation: fadeInDown 1s ease-in-out;
+  }
+  
+  @keyframes fadeInDown {
+    0% {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .about, .products, .contact, .news {
+    padding: 50px;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  .about h2, .products h2, .contact h2, .news h2 {
+    font-size: 32px; /* Increased font size */
+    margin-bottom: 20px;
+    animation: fadeInUp 1s ease-in-out; /* Added animation for headings */
+  }
+  
+  .about, .textarea {
+    text-align: center;
+  }
+  
+  .products ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .products li {
+    width: 30%;
+    margin-bottom: 30px;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #F0F0F0;
+    transition: all 0.3s ease-in-out;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  .products li:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    background-color: #FFD700;
+  }
+  
+  .contact {
+    place-self: center;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  .contact form {
+    width: 100%;
+    padding-right: 50%;
+    align-items: center;
+  }
+  
+  .contact form label {
+    display: block;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .contact form input, .contact form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    transition: all 0.3s ease-in-out;
+    animation: fadeInUp 1s ease-in-out;
+    border-color: #FF6600;
+  }
+  
+  .contact form input:focus, .contact form textarea:focus {
+    border-bottom: 2px solid #007BFF;
+    outline: none;
+    border-color: #00FF00;
+  }
+  
+  .contact form button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    animation: fadeInUp 1s ease-in-out;
+    background-color: #FF0000;
+    color: #fff;
+  }
+  
+  .contact {
+    align-items: center;
+  }
+  
+  .guarantee {
+    text-align: center;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  .guarantee {
+    text-align: center;
+    animation: fadeInUp 1s ease-in-out;
+    background-color: hsl(199, 88%, 48%);
+  }
+  
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0); 1 
+    }
+  }
+  .address {
+    text-align: center;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  .address h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  .address p {
+    font-size: 18px;
+    line-height: 1.5;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  /* Optional: Add a background color and border-radius for a cleaner look */
+  .address {
+    background-color: #f7c9c9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .address {
+    text-align: center;
+    animation: fadeInUp 1s ease-in-out;
+  }
+  
+  .address h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    animation: fadeInUp 1s ease-in-out;
+    color: black; /* Initial color */
+  }
+  
+  .address h2:hover {
+    color: red; /* Hover color */
+  }
+  
+  .address p {
+    font-size: 18px;
+    line-height: 1.5;
+    animation: fadeInUp 1s ease-in-out;
+    color: black; /* Initial color */
+  }
+  
+  .address p:hover {
+    color: red; /* Hover color */
+  }
+  
+  /* Optional: Add a background color and border-radius for a cleaner look */
+  .address {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .map {
+    place-self: center;
+    animation: fadeInUp 1s ease-in-out;
+    background-color: #333;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    animation: fadeInUp 1s ease-in-out;
+  }
