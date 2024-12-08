@@ -1,13 +1,13 @@
 Here is an example of a `README.md` file for a GitHub repository, which includes a mobile shop website using HTML, CSS, and JavaScript:
 
 ---
-# ???? Mobile Shop Website
+#  📲 Mobile Shop Website
 
 Welcome to the **Mobile Shop Website** repository! This project is a sleek and responsive website designed for a mobile phone store, built using **HTML**, **CSS**, and **JavaScript**. It presents the latest smartphones, browses through the product range, and has interactive features for a dynamic user experience.
 
 ---
 
-## ???? Features
+## Features
 
 - **Responsive Design**: Fully optimized for desktops, tablets, and mobile devices.
 - **Product Gallery**: Display of featured smartphones with high-quality images and details.
@@ -43,14 +43,14 @@ Welcome to the **Mobile Shop Website** repository! This project is a sleek and r
 
 ---
 
-## ???? Demo
+##  Demo
 
-Check out the live demo of the Mobile Shop Website: [Demo Link](#)  
+Check out the live demo of the Mobile Shop Website: [Demo Link](#)  t https://fazilshaik-5.github.io/Mobile-Shop-website/
 (*Replace `#` with your live demo URL, e.g., GitHub Pages or a hosting service link.*)
 
 ---
 
-## ???? Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
@@ -69,7 +69,7 @@ cd mobile-shop-website
 
 ---
 
-## ???? How to Contribute
+##  How to Contribute
 
 Contributions are welcome! Here's how you can contribute:
 
